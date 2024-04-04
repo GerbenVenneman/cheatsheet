@@ -87,3 +87,7 @@ Presentatie / individuele oplevering:
 	Als je een bug hebt laat zien dat je aan een oplossing hebt gedacht,
 	Code uitleggen,
 	Inhoudelijke vragen beantwoorden over de code,
+
+
+ ![image](https://github.com/GerbenVenneman/cheatsheet/assets/93595865/4cf66f32-a009-47f3-b084-658bb20085d0)
+
