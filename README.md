@@ -91,3 +91,20 @@ Presentatie / individuele oplevering:
 
  ![image](https://github.com/GerbenVenneman/cheatsheet/assets/93595865/4cf66f32-a009-47f3-b084-658bb20085d0)
 
+ ![image](https://github.com/GerbenVenneman/cheatsheet/assets/93595865/70b9f687-d7dd-4836-bb41-9913ae7a98a6)
+
+ Lijstje programma's 
+ Visual studio
+ Miro
+ Figma
+ Github
+ Draw.io
+ Laragon
+
+ Extensies
+ Vue
+ Laravel Blade Snippets
+ Pph intelephants
+ 
+
+
